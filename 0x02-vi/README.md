@@ -1,0 +1,1 @@
+<h1> This is the vi(m) project for Holberton School </h1>
